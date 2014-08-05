@@ -1,0 +1,6 @@
+ProjectName1 /local/projects-src/ProjectName1/ /local/projects-dst/ProjectName1/
+ProjectName2 /local/projects-src/ProjectName2/ /local/projects-dst/ProjectName2/
+ProjectName3 /local/projects-src/ProjectName3/ /local/projects-dst/ProjectName3/
+ProjectName4 /local/projects-src/ProjectName4/ /local/projects-dst/ProjectName4/
+ProjectName5 /local/projects-src/ProjectName5/ /local/projects-dst/ProjectName5/
+ProjectName6 /local/projects-src/ProjectName6/ /local/projects-dst/ProjectName6/
