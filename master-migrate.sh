@@ -13,6 +13,7 @@
 # - Add emailing for each rsync completion
 # - Add emailing for each comparison completion along with line counts from
 #   diff file
+# - Add email subject "tag" variable for filtering ie. [MIGR]
 #############################################################################
 
 # Variables Setup
